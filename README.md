@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @tinashe76
 - 👀 I’m interested in Game Development and Machine Learning
 - 🌱 I’m currently learning Software Engineering and Scientific Python
-- 📫 How to reach me : whatsapp on +263776934102 or tinashezaytovin@outlook.com
+- 📫 How to reach me : tinashezaytovin@outlook.com
 
 <!---
 tinashe76/tinashe76 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
