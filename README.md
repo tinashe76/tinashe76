@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @tinashe76
-- 👀 I’m interested in Game Development and Machine Learning
+- 👀 I’m interested in Machine Learning, Computer Graphics and Back-end Development
 - 🌱 I’m currently learning Software Engineering and Scientific Python
 - 📫 How to reach me : tinashezaytovin@outlook.com
 
